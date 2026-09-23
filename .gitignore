@@ -2,3 +2,5 @@
 ~$*.xlsx
 ~$*.pptx
 *.tmp
+__pycache__/
+.ipynb_checkpoints/
